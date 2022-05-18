@@ -1,5 +1,5 @@
 # Loan_Default_Prediction_Keras_DeepLearning
-The goal of this projects is to build a classification model using deep learning library (Keras) for predicting a loan turning default.
+The goal of this project is to build a classification model using deep learning library (Keras) for predicting a loan turning default. 
 
 - This notebook uses a subset of lending club dataset obtained from Kaggle. The file is very big (>100MB) and can be accessed from the following link:
 https://drive.google.com/drive/u/0/my-drive (lending_club_loan_two.csv)
